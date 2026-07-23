@@ -10,6 +10,7 @@ The dashboard provides business insights through interactive visualizations, KPI
 
 ## 📷 Dashboard Preview
 
+<img width="1315" height="733" alt="Screenshot 2026-07-16 164458" src="https://github.com/user-attachments/assets/90843711-ec02-454b-a2db-dfb6611e55a6" />
 
 
 ---
